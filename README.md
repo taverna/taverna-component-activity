@@ -1,7 +1,7 @@
-Taverna Workflow System
-====
-Component Activity: data model and execution implementation
-----
-This code was previously hosted at [Google Code](http://taverna.googlecode.com/svn/taverna/engine/net.sf.taverna.t2.activities/).
+# Moved to Apache Taverna
 
-See [this sibling repository](https://github.com/taverna/taverna-component-activity-ui) for the GUI for editing and working with Components.
+This source code has moved to [Apache Taverna](http://taverna.incubator.apache.org/) 
+as part of the repository 
+[incubator-taverna-plugin-component](https://github.com/apache/incubator-taverna-plugin-component)
+
+This repository is kept for historical reasons - see the tags and branches.
